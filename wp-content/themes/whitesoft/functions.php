@@ -15,3 +15,5 @@ add_action('wp_enqueue_scripts', 'enqueue_scripts');
 if (function_exists('add_theme_support')) {
 	add_theme_support('menus');
 }
+
+remove_action('template_redirect', 'redirect_canonical');
