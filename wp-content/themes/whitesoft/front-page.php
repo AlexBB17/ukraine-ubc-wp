@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 
 <div class="row">
-	<div class="wallpaper"></div>
+	<!-- <div class="wallpaper"></div> -->
     <div class="content">
         <div class="inner-content">
             <?php if (have_posts()): while (have_posts()): the_post(); ?>

@@ -219,6 +219,26 @@ nav .show-menu {
     right: 0;
 }
 
+
+/**
+ * Contacts page
+ */
+
+
+.contacts-info {
+    width: 100%;
+    padding: 10px 0 0 10px;
+}
+
+.contacts-map {
+    width: 100%;
+    padding: 10px 0 0 10px;
+}
+
+.contacts-title {
+    padding: 10px 0;
+}
+
 @media (min-width: 640px) {
     .block-50 { width: 50%; }
 
