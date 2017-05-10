@@ -224,18 +224,9 @@ nav .show-menu {
  * Contacts page
  */
 
-
-.contacts-info {
-    width: 100%;
-    padding: 10px 0 0 10px;
-}
-
+.contacts-title, 
+.contact-photo,
 .contacts-map {
-    width: 100%;
-    padding: 10px 0 0 10px;
-}
-
-.contacts-title {
     padding: 10px 0;
 }
 
