@@ -8,7 +8,7 @@
 			</div>
 			<div class="center contact-photo">
 				<div>
-					<img src="http://ukraine-ubc-wp.dev/wp-content/uploads/2017/05/Sergey-Stupak-150x150.jpg" alt="Ступак Сергей Станиславович" />
+					<img src="/wp-content/uploads/2017/05/Sergey-Stupak-150x150.jpg" alt="Ступак Сергей Станиславович" />
 				</div>
 				<div>
 					<div>Ступак Сергей Станиславович</div>
@@ -18,7 +18,7 @@
 			</div>
 			<div class="center contact-photo">
 				<div>
-					<img class="alignnone" src="http://ukraine-ubc-wp.dev/wp-content/uploads/2017/05/Marina-Averina-1-150x150.jpg" alt="Марина Аверина" />
+					<img class="alignnone" src="/wp-content/uploads/2017/05/Marina-Averina-1-150x150.jpg" alt="Марина Аверина" />
 				</div>
 				<div>
 					<div>Марина Аверина</div>
@@ -27,7 +27,7 @@
 			</div>
 			<div class="center contact-photo">
 				<div>
-					<img src="http://ukraine-ubc-wp.dev/wp-content/uploads/2017/05/Lyudmila-CHerkass-150x150.jpg" alt="Черкас Людмила Николаевна" />
+					<img src="/wp-content/uploads/2017/05/Lyudmila-CHerkass-150x150.jpg" alt="Черкас Людмила Николаевна" />
 				</div>
 				<div>
 					<div>Черкас Людмила Николаевна</div>
