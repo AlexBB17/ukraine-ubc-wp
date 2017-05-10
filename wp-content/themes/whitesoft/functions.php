@@ -1,5 +1,5 @@
 <?php
-remove_action('template_redirect', 'redirect_canonical');
+remove_action('wp_head', 'wp_robots' );
 
 function enqueue_styles() {
 	wp_enqueue_style( 'whitesquare-style', get_stylesheet_uri());
