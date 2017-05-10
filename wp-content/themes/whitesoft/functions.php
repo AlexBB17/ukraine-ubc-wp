@@ -1,4 +1,6 @@
 <?php
+remove_action('template_redirect', 'redirect_canonical');
+
 function enqueue_styles() {
 	wp_enqueue_style( 'whitesquare-style', get_stylesheet_uri());
 	// wp_register_style('font-style', '/fonts/Roboto-Light.ttf');
@@ -15,5 +17,3 @@ add_action('wp_enqueue_scripts', 'enqueue_scripts');
 if (function_exists('add_theme_support')) {
 	add_theme_support('menus');
 }
-
-remove_action('template_redirect', 'redirect_canonical');
