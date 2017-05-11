@@ -19,5 +19,5 @@
 	</div>
 	<?php get_template_part('sidebar-contacts'); ?>
 </div>
-<?php //while(have_posts()): the_post(); the_content(); endwhile; ?>
+<?php while(have_posts()): the_post(); the_content(); endwhile; ?>
 <?php get_footer(); ?>
