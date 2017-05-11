@@ -21,7 +21,7 @@ p { margin: 0; margin-bottom: 10px; }
 .bg-blue { background: rgba(81, 156, 255, 1); }
 .bg-grey { background: rgb(84, 86, 88); }
 .color_1 { color: #C5C3C3; }
-.font_1 { font-size: 0.6em; }
+.font_1 { font-size: 10px; }
 .center { text-align: center; }
 .f-l { float: left; }
 .f-r { float: right; }
@@ -114,7 +114,7 @@ nav .show-menu {
 
 .content {
     width: 100%;
-    font-size: 0.8em;
+    font-size: 13px;
 }
 
 .content a {
@@ -173,7 +173,7 @@ nav .show-menu {
 
 .block-title {
     width: 100%;
-    height: 40px;
+    min-height: 40px;
     text-align: center;
     margin-bottom: 10px;
     position: relative;
@@ -184,7 +184,7 @@ nav .show-menu {
 }
 
 .block-title h1,h2,h3,h4,h5,h6 {
-    font-size: 1.3em;
+    font-size: 18px;
     line-height: 40px;
     color: #fff;
 }
@@ -195,7 +195,7 @@ nav .show-menu {
 
 .ribbon {
     position: absolute;
-    top: 40px;
+    top: 100%;
     height: 0;
     width: 0;
     border: 10px solid transparent;
@@ -312,7 +312,6 @@ nav .show-menu {
     .content {
         width: 70%;
         float: left;
-        font-size: 0.8em;
     }
 
     .sidebar {
