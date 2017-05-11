@@ -7,18 +7,18 @@
         </div>
         <div class="block-content center">
             <div class="block block-30">
-                <a class="flag" href="#">
-                    <img src="/images/usa_flag.png">
+                <a target="_blank" class="flag" href="http://ukraine-ubc.kiev.ua/wp-content/uploads/2017/05/DS-156.pdf">
+                    <img src="http://ukraine-ubc.kiev.ua/wp-content/uploads/2017/05/usa.png">
                 </a>
             </div>
             <div class="block block-30">
-                <a class="flag" href="#">
-                    <img src="/images/gb_flag.png">
+                <a target="_blank" class="flag" href="http://ukraine-ubc.kiev.ua/wp-content/uploads/2017/05/АНКЕТА-НА-БРИТАНСКУЮ-ВИЗУ.docx">
+                    <img src="http://ukraine-ubc.kiev.ua/wp-content/uploads/2017/05/britain.png">
                 </a>
             </div>
             <div class="block block-30">
-                <a class="flag" href="#">
-                    <img src="/images/ca_flag.png">
+                <a target="_blank" class="flag" href="http://ukraine-ubc.kiev.ua/wp-content/uploads/2017/05/Анкета-Канада.docx">
+                    <img src="http://ukraine-ubc.kiev.ua/wp-content/uploads/2017/05/canada.png">
                 </a>
             </div>
         </div>
