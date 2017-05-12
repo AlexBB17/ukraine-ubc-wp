@@ -114,7 +114,7 @@ nav .show-menu {
     color: rgba(81, 156, 255, 1);
 }
 
-ul.list-pages { padding-top: 10px; font-size: 23px; }
+ul.list-pages { font-size: 20px; }
 ul.list-pages > li a:hover { text-decoration: underline; }
 ul.list-pages > li { list-style-type: decimal; }
 ul.list-pages > li > a { color: rgb(84, 86, 88); }
@@ -180,6 +180,11 @@ ul.children { font-size: 0; font-size: 17px; }
 
 .block-width {
     padding: 0 3px;
+}
+
+.main-heading h1 {
+    padding-bottom: 10px;
+    font-size: 23px;
 }
 
 .block-title h1,h2,h3,h4,h5,h6 {
