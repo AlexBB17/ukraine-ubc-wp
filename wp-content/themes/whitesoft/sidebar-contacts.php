@@ -6,7 +6,7 @@
 				<div class="block-title bg-blue">
 					<div class="ribbon ribbon-blue ribbon-left"></div>
 					<div class="ribbon ribbon-blue ribbon-right"></div>
-					<h5>Наши сотрудники:</h5>
+					<h5>Наши сотрудники</h5>
 				</div>
 				<div class="center contact-photo">
 					<div>

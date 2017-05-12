@@ -230,6 +230,24 @@ nav .show-menu {
     padding: 10px 0;
 }
 
+input.contact-form-field { height: 30px; }
+.contact-form-field {
+    border: 1px rgba(81, 156, 255, 1) solid;
+    width: 100%;
+    padding: 10px 10px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.contact-form-submit {
+    color: #fff;
+    height: 40px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+
 @media (min-width: 640px) {
     .block-50 { width: 50%; }
 
