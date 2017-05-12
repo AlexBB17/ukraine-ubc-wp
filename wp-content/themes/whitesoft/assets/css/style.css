@@ -114,12 +114,12 @@ nav .show-menu {
     color: rgba(81, 156, 255, 1);
 }
 
-.content ul .page_item.page_item_has_children {
+.content ul .page_item.page_item_has_children:first-child {
     list-style-type: none;
     padding-top: 10px;
 }
 
-.content ul .page_item.page_item_has_children > a {
+.content ul .page_item.page_item_has_children:first-child > a {
     font-size: 23px;
     color: rgb(84, 86, 88);
 }
