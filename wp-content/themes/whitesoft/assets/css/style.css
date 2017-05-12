@@ -91,10 +91,6 @@ p { margin: 0; margin-bottom: 10px; }
     height: 100%;
 }
 
-.nav-menu li:hover {
-    background: rgb(84, 86, 88);
-}
-
 .nav-menu .active {
     color: #519CFF;
 }
