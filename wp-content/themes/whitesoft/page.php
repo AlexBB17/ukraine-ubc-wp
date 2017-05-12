@@ -12,7 +12,7 @@
 			<?php
 			  $children = wp_list_pages('title_li=&child_of='.$post->ID.'&echo=0&depth=2');
 			  if ($children): ?>
-				  <ul>
+				  <ul class="list-pages">
 				  	<?php echo $children; ?>
 				  </ul>
 			  <?php endif; ?>
