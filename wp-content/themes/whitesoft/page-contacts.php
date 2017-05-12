@@ -4,7 +4,7 @@
 		<div class="inner-content">
             <div class="row">
                 
-                <div class="block block-50">
+                <div class="block block-50 contacts-map">
                     <div class="block-width">
                         <div class="block-title bg-blue">
                             <div class="ribbon ribbon-blue ribbon-left"></div>
@@ -31,7 +31,7 @@
         					+38 (066) 299 4965 <br>
         					+38 (093) 811 9690 <br>
         					<div class="contacts-title"><u>e-mail:</u></div> 
-                            megano@ukr.net
+                            info@ukraine-ubc.kiev.ua
                         </div>
     				</div>
     			</div>

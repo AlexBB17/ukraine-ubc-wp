@@ -224,9 +224,11 @@ nav .show-menu {
  * Contacts page
  */
 
+.contacts-map { display: none; }
+.contacts-employees { display: none; }
+
 .contacts-title, 
-.contact-photo,
-.contacts-map {
+.contact-photo {
     padding: 10px 0;
 }
 
@@ -278,6 +280,8 @@ input.contact-form-field { height: 30px; }
     .inner-content .block-50:last-of-type {
         padding-left: 2px;
     }
+
+    .contacts-map { display: block; }
 }
 
 
@@ -332,6 +336,7 @@ input.contact-form-field { height: 30px; }
         float: left;
     }
 
+    .contacts-employees { display: block; }
     .sidebar {
         width: 30%;
         float: left;

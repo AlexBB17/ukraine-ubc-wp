@@ -1,4 +1,4 @@
-<div class="sidebar">
+<div class="sidebar contacts-employees">
     <div class="inner-sidebar">
 		
 		<div class="sidebar-block block-100">
