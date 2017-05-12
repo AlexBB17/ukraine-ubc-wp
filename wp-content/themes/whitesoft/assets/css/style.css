@@ -114,9 +114,9 @@ nav .show-menu {
     color: rgba(81, 156, 255, 1);
 }
 
+ul.list-pages > li a:hover { text-decoration: underline; }
 ul.list-pages > li {
-    list-style-type: none;
-    padding-top: 10px;
+    list-style-type: decimal;
 }
 
 ul.list-pages > li > a {
