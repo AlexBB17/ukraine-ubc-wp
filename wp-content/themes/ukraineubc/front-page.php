@@ -68,15 +68,15 @@
 				<div class="questionnaires">
 					<h4 class="title">Анкеты</h4>
 					<div class="flags-block row">
-						<a target="_blank" class="flag" href="#">
+						<a target="_blank" class="flag" href="http://ukraine-ubc.kiev.ua/wp-content/uploads/2017/05/DS-156.pdf">
 							<img src="http://ukraine-ubc.kiev.ua/wp-content/uploads/2017/05/usa.png" alt="">
 							<div>США</div>
 						</a>
-						<a target="_blank" class="flag" href="#">
+						<a target="_blank" class="flag" href="http://ukraine-ubc.kiev.ua/wp-content/uploads/2017/05/АНКЕТА-НА-БРИТАНСКУЮ-ВИЗУ.docx">
 							<img src="http://ukraine-ubc.kiev.ua/wp-content/uploads/2017/05/britain.png" alt="">
 							<div>Великобритания</div>
 						</a>
-						<a target="_blank" class="flag" href="#">
+						<a target="_blank" class="flag" href="http://ukraine-ubc.kiev.ua/wp-content/uploads/2017/05/Анкета-Канада.docx">
 							<img src="http://ukraine-ubc.kiev.ua/wp-content/uploads/2017/05/canada.png" alt="">
 							<div>Канада</div>
 						</a>
