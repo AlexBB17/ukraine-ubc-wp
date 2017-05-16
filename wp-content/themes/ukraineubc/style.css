@@ -94,9 +94,9 @@ a:hover { color: rgba(230, 147, 23, 1); }
  * Main page middle content
  */
 .middle {
-    background: url(http://ukraine-ubc.kiev.ua/wp-content/uploads/2017/05/city-building-street-lower.jpg) no-repeat;
+    background: url(http://ukraine-ubc.kiev.ua/wp-content/uploads/2017/05/men-shakes-hands-small.jpg) no-repeat;
     background-size: cover;
-    background-position: bottom;
+    background-position: center;
     width: 100%;
     height: 422px;
     display: table;
