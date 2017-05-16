@@ -18,8 +18,11 @@
 	</div>
 	<div class="head-logo-block">
 		<div class="logo-content">
-			<img class="img-logo" src="https://static.wixstatic.com/media/a9ff3b_bcb22b9fe58d4cbe8b2bfd13e1ac3ff5.png/v1/fill/w_75,h_75,al_c/a9ff3b_bcb22b9fe58d4cbe8b2bfd13e1ac3ff5.png" alt="">
+			<a href="<?php echo get_site_url(); ?>">
+				<img class="img-logo" src="http://ukraine-ubc.kiev.ua/wp-content/uploads/2017/05/logo.png" alt="Ukraine-UBC">
+			</a>
 			<div class="logo-text">UKRAINE-UBC</div>
+			<div class="logo-slogan">Стратегия решений иммиграционных и неиммиграционных вопросов</div>
 		</div>
 	</div>
 </div>
