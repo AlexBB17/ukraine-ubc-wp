@@ -26,7 +26,7 @@
 				<li>Оформление документов для Посольств после отказов в визе и многое другое</li>
 			</ul>
 		</div>
-		<div class="more-block">
+		<div class="more-block f-r">
 			<a href="#" class="more-link">Подробнее</a>
 		</div>
 	</div>
