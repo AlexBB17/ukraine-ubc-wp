@@ -25,6 +25,8 @@ body { background-color: rgba(197, 195, 195, 0.16); font-family: Roboto; color: 
 .row { display: block; }
 
 h1,h2,h3,h4,h5,h6 { font-family: Arial; font-size: 34px; font-weight: bold; padding: 0 0 20px 0; }
+a { color: #383838; transition: color 0.4s ease 0s; }
+a:hover { color: rgba(230, 147, 23, 1); }
 
 /**
  * Header menu
@@ -54,17 +56,11 @@ h1,h2,h3,h4,h5,h6 { font-family: Arial; font-size: 34px; font-weight: bold; padd
 }
 
 .nav-menu li a {
-    color: #383838;
     display: block;
     height: 100%;
     line-height: 36px;
     padding: 0 10px;
     text-transform: uppercase;
-    transition: color 0.4s ease 0s;
-}
-
-.nav-menu li a:hover {
-    color: rgba(230, 147, 23, 1);
 }
 
 /**
@@ -126,25 +122,6 @@ h1,h2,h3,h4,h5,h6 { font-family: Arial; font-size: 34px; font-weight: bold; padd
 }
 
 /**
- * Main page images content
- */
-.images {
-    padding: 20px 0 0;
-}
-
-.img-content {
-    float: left;
-    width: 33%;
-    text-align: center;
-}
-
-.img-circle {
-    border-radius: 50%;
-    width: 250px;
-    height: 250px;
-}
-
-/**
  * Content
  */
 .with-bottom-line {
@@ -166,6 +143,10 @@ h1,h2,h3,h4,h5,h6 { font-family: Arial; font-size: 34px; font-weight: bold; padd
     color: #fff;
     background-color: rgba(2, 148, 181, 1);
     text-transform: uppercase;
+}
+
+.more-link:hover {
+    color: #fff;
 }
 
 .content-block {
@@ -194,6 +175,34 @@ h1,h2,h3,h4,h5,h6 { font-family: Arial; font-size: 34px; font-weight: bold; padd
 }
 
 /**
+ * Employeer block
+ */
+.images {
+    padding: 20px 0 0;
+}
+
+.img-content {
+    float: left;
+    width: 33%;
+    text-align: center;
+}
+
+.img-circle {
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+}
+
+.employeer-name {
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.employeer-description {
+    font-size: 15px;
+}
+
+/**
  * Contacts
  */
 .contact-form-field {
@@ -215,6 +224,20 @@ h1,h2,h3,h4,h5,h6 { font-family: Arial; font-size: 34px; font-weight: bold; padd
     color: #fff;
     padding: 5px;
     cursor: pointer;
+}
+
+.questionnaires .title {
+    padding: 20px 0;
+}
+
+.questionnaires .flag {
+    float: left;
+    width: 33.33%;
+    text-align: center;
+}
+
+.questionnaires .flag:hover {
+    color: rgba(230, 147, 23, 1);
 }
 
 /**

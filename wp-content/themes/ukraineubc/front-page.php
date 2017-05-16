@@ -65,6 +65,23 @@
 				<div>
 					Для того чтобы мы смогли оценить ваши шансы на получение той или иной визы, вам достаточно заполнить анкету США, Великобритании или Канады и прислать их нам на электронную почту через форму справа или лично привести их вместе со своими заграничными паспортами к нам в офис для консультации.
 				</div>
+				<div class="questionnaires">
+					<h4 class="title">Анкеты</h4>
+					<div class="flags-block row">
+						<a target="_blank" class="flag" href="#">
+							<img src="http://ukraine-ubc.kiev.ua/wp-content/uploads/2017/05/usa.png" alt="">
+							<div>США</div>
+						</a>
+						<a target="_blank" class="flag" href="#">
+							<img src="http://ukraine-ubc.kiev.ua/wp-content/uploads/2017/05/britain.png" alt="">
+							<div>Великобритания</div>
+						</a>
+						<a target="_blank" class="flag" href="#">
+							<img src="http://ukraine-ubc.kiev.ua/wp-content/uploads/2017/05/canada.png" alt="">
+							<div>Канада</div>
+						</a>
+					</div>
+				</div>
 			</div>
 			<div class="half">
 				<h4>Свяжитесь с нами</h4>
