@@ -27,35 +27,11 @@
 			</ul>
 		</div>
 		<div class="more-block f-r">
-			<a href="#" class="more-link">Подробнее</a>
+			<a href="http://ukraine-ubc.kiev.ua/what-we-can-do/" class="more-link">Подробнее</a>
 		</div>
 	</div>
 </div>
 
-<div class="content with-bottom-line">
-	<div class="content-width">
-		<div class="content-block">
-			<h4>Наша команда</h4>
-			<div class="images row">
-				<div class="img-content">
-					<img class="img-circle" src="http://ukraine-ubc.kiev.ua/wp-content/uploads/2017/05/Sergey-Stupak.jpg" alt="">
-					<div class="employeer-name">Ступак Сергей</div>
-					<div class="employeer-description">Директор Ukraine-UBC</div>
-				</div>
-				<div class="img-content">
-					<img class="img-circle" src="http://ukraine-ubc.kiev.ua/wp-content/uploads/2017/05/Marina-Averina-1.jpg" alt="">
-					<div class="employeer-name">Аверина Марина</div>
-					<div class="employeer-description">Специалист Ukraine-UBC</div>
-				</div>
-				<div class="img-content">
-					<img class="img-circle" src="http://ukraine-ubc.kiev.ua/wp-content/uploads/2017/05/Lyudmila-CHerkass.jpg" alt="">
-					<div class="employeer-name">Людмила Черкасс</div>
-					<div class="employeer-description">Специалист Ukraine-UBC</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
 
 <div class="content">
 	<div class="content-width">
