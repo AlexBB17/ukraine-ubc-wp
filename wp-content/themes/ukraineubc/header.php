@@ -20,8 +20,8 @@
 			<a href="<?php echo get_site_url(); ?>">
 				<img class="img-logo" src="http://ukraine-ubc.kiev.ua/wp-content/uploads/2017/05/logo.png" alt="Ukraine-UBC">
 			</a>
-			<div class="logo-text">UKRAINE-UBC</div>
-			<div class="logo-slogan">Стратегия решений иммиграционных и неиммиграционных вопросов</div>
+			<div class="logo-text">UKRAINE <span class="star">*</span> UNITED STATES OF AMERICA <span class="star">*</span> UNITED KINGDOM <span class="star">*</span> CANADA</div>
+			<div class="logo-slogan">Стратегия решений иммиграционных и не иммиграционных вопросов</div>
 		</div>
 	</div>
 </div>

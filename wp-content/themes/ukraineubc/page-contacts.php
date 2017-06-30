@@ -4,7 +4,7 @@
     	<div class="content-block row">
 			<h1><?php the_title(); ?></h1>
 			<div class="half">
-				<script src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=Q2568AceMld5ougOJrNmAjC0VZjyYAMF&amp;width=470&amp;height=350&amp;lang=ru_RU&amp;sourceType=constructor&amp;scroll=true" async="" type="text/javascript" charset="utf-8"></script>
+				<script src='https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyCVwe7RbUaftu7OLzQL8XrWbQswXMtop0M'></script><div style='overflow:hidden;height:350px;width:470px;'><div id='gmap_canvas' style='height:350px;width:470px;'></div><div><small><a href="http://www.googlemapsgenerator.com/ru/">карты</a></small></div><div><small><a href="https://gefalltmirbutton.org/de/">hier</a></small></div><style>#gmap_canvas img{max-width:none!important;background:none!important}</style></div><script type='text/javascript'>function init_map(){var myOptions = {zoom:17,center:new google.maps.LatLng(50.46500881744761,30.42994597804864),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(50.46530881744791,30.42882577800864)});infowindow = new google.maps.InfoWindow({content:'<strong>Ukraine-UBC</strong><br>ул. Авиаконструктора Игоря Сикорского 6<br>'});google.maps.event.addListener(marker, 'click', function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);</script>
 			</div>
 			<div class="half">
 				<?php if (have_posts()): while (have_posts()): the_post(); ?>
